@@ -1,0 +1,36 @@
+body{
+    color: black;
+    background-color: skyblue;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+    text-shadow: 2px 2px 5px rgb(45, 152, 240);
+}
+
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height:300px;
+}
+
+.name_object, #result_object_name, #result_object_accuracy{
+    color:darkblue;
+    
+} 
+
+.yellow-btn{
+    background-color: rgb(243, 243, 123);
+    color: black;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+
+}
+
+.purple-btn{
+    background-color: rgb(228, 118, 228);
+    color: black;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+    
+}
